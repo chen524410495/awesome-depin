@@ -112,6 +112,7 @@ Welcome to our [DePIN (Decentralized Physical Infrastructure Networks)](https://
 - [Livepeer](https://livepeer.org)
 - [Acurast](https://acurast.com/)
 - [Lilypad](https://lilypad.tech)
+- [RustChain](https://github.com/Scottcjn/RustChain) - AI-Augmented Proof of Real Machines. DePIN for vintage hardware where old computers outearn new ones.
 
 #### Storage
 
